@@ -43,3 +43,8 @@ React 19 + TypeScript. Views in `src/views` map to Next.js `app/<route>/page.tsx
 
 ## Preview build
 `node preview/build.mjs` writes `dist/index.html` (plus app.js and app.css) and a single-file `dist/crumb-and-crema.html`.
+
+
+---
+
+**Arooj Fatima** · Full-stack developer who designs · Portfolio: [aroojfatima-portfolio.netlify.app](https://aroojfatima-portfolio.netlify.app) · aroojfatimaofficial250@gmail.com
